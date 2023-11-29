@@ -29,17 +29,17 @@
       {
         "order": 4,
         "category": "COMUNICAT",
-        "url": "https://serviastro.ub.edu/activitats/conferencies/100-anys-deinstein-a-catalunya",
+        "url": "https://res.cloudinary.com/db0me9nfi/image/upload/v1701283568/Aster/einstein.png",
         "image": "/newsletter/einstein.png",
-        "title": "100 anys d'Einstein a Catalunya",
+        "title": "100 anys d'Einstein a Catalunya.",
         "summary": "Amb motiu de la commemoració del centenari de la visita d'Einstein a Barcelona el febrer de 1923, la Secció de Ciències i Tecnologia (SECCT) de l'Institut d'Estudis Catalans (IEC)ha preparat una exposició titulada «Cent anys d'Einstein a Catalunya». L'objectiu principal de l'exposició és apropar al públic la figura d'aquest gran científic.\nL'exposició analitza la trajectòria d'Einstein, la vigència d'alguns dels seus treballs, l'exemple del seu compromís amb la pau i el curs que impartí a Barcelona el 1923, on establí lligams estrets amb la comunitat científica de l'època. Li plagué la música tradicional catalana i, a més, conegué llocs emblemàtics com el monestir de Sant Cugat, el nucli de l'antiga Ègara a Terrassa i el monestir de Poblet."
       },
       {
         "order": 5,
         "category": "COMUNICAT",
-        "url": "#",
-        "image": "/newsletter/aster.png",
-        "title": "Aster - Acomiadament del 2023, sopar, trobada i benvinguda al 2024",
+        "url": "https://www.aster.cat/",
+        "image": "https://res.cloudinary.com/db0me9nfi/image/upload/v1701283568/Aster/aster.png",
+        "title": "Aster - Acomiadament del 2023, sopar, trobada i benvinguda al 2024.",
         "summary": "Tancarem l'any amb el tradicional sopar el 13 de desembre en un restaurant enfront de l'enyorada cúpula de la seu històrica d'Aster al Passeig de Gràcia, on lliurarem els premis del Concurs de Relats d'Astronomia i on sempre pot haver alguna sorpresa afegida.\nSom conscients que no tothom podrà assistir-hi i per això farem una trobada en línia pel nostre canal habitual de comunicació per Internet el dia 21 de desembre per celebrar el solstici d'hivern i desitjar-vos un bon 2024. Serà per Webex.\nTambé volem aprofitar aquestes reunions periòdiques que estem realitzant per conèixer les vostres inquietuds, suggeriments, propostes i projectes amb la finalitat de millorar el nostre funcionament i les nostres activitats, difondre la Ciència i donar més projecció exterior i notorietat a Aster.\nAquests objectius requereixen la participació dels socis i quants més socis hi participem més activitats podrem fer, de millor qualitat, podent projectar millor Aster a la societat. Sabem que hi ha socis que fan activitats amb escoles, institucions, amics, etc. i per això us volem demanar que ens informeu de les activitats que esteu fent i així també podrem donar suport i donar a conèixer el que fem globalment per la difusió de l'Astronomia."
       }
     ]
