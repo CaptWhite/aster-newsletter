@@ -36,7 +36,7 @@
       },
       {
         "order": 5,
-        "category": "COMUNICAT",
+        "category": "COMUNICAT", 
         "url": "https://www.aster.cat/",
         "image": "https://res.cloudinary.com/db0me9nfi/image/upload/v1701283568/Aster/aster.png",
         "title": "Aster - Acomiadament del 2023, sopar, trobada i benvinguda al 2024.",
