@@ -17,6 +17,16 @@
 			},
 			{
 				"order": 2,
+				"category": "FELICITACIÓ",
+				"url": "https://lh3.googleusercontent.com/u/0/drive-viewer/AK7aPaCboLDLSGHSJXkpqPYyVBM_KvDU6_pd3M2k7aPA7dzEzbwyihC-lqK6yGtDBV8igXdaUlfolGlvLvtYBv4ifKEGlXHB=w1912-h924",
+				"image": "https://lh3.googleusercontent.com/u/0/drive-viewer/AK7aPaCboLDLSGHSJXkpqPYyVBM_KvDU6_pd3M2k7aPA7dzEzbwyihC-lqK6yGtDBV8igXdaUlfolGlvLvtYBv4ifKEGlXHB=w1912-h924",
+				"title": "Bones Festes",
+				"summary": "Aster, Agrupació Astronòmica de Barcelona us desitja Feliç solstici d'hivern i un bon any 2024 amb salut i cels nets.",
+				"widthPhoto": 0
+			},
+
+			{
+				"order": 3,
 				"category": "COMUNICAT",
 				"url": "https://www.aster.cat/",
 				"image": "https://res.cloudinary.com/db0me9nfi/image/upload/v1701283568/Aster/aster.png",
@@ -24,15 +34,6 @@
 				"summary": "Tancarem l'any amb el tradicional sopar el 13 de desembre en un restaurant enfront de l'enyorada cúpula de la seu històrica d'Aster al Passeig de Gràcia, on lliurarem els premis del Concurs de Relats d'Astronomia i on sempre pot haver alguna sorpresa afegida.\nSom conscients que no tothom podrà assistir-hi i per això farem una trobada en línia pel nostre canal habitual de comunicació per Internet el dia 21 de desembre per celebrar el solstici d'hivern i desitjar-vos un bon 2024. Serà per Webex.\nTambé volem aprofitar aquestes reunions periòdiques que estem realitzant per conèixer les vostres inquietuds, suggeriments, propostes i projectes amb la finalitat de millorar el nostre funcionament i les nostres activitats, difondre la Ciència i donar més projecció exterior i notorietat a Aster.\nAquests objectius requereixen la participació dels socis i quants més socis hi participem més activitats podrem fer, de millor qualitat, podent projectar millor Aster a la societat. Sabem que hi ha socis que fan activitats amb escoles, institucions, amics, etc. i per això us volem demanar que ens informeu de les activitats que esteu fent i així també podrem donar suport i donar a conèixer el que fem globalment per la difusió de l'Astronomia.",
 				"widthPhoto": 60
 
-			},
-			{
-				"order": 3,
-				"category": "COMUNICAT",
-				"url": "https://www.aster.cat/news/ca_ES/2023/12/01/0002/calendari-2024",
-				"image": "https://res.cloudinary.com/db0me9nfi/image/upload/v1701530321/Aster/Einstein_100_any.jpg",
-				"title": "Calendari d'Aster 2024",
-				"summary": "Benvolguts i benvolgudes.\nDir-vos que com és tradicional, tenim a la vostra disposició el bonic calendari del proper 2024, amb les corresponents fotografies astronòmiques, realitzades per els nostres socis, i els principals esdeveniments astronòmics de l'any, a cada un dels dotze mesos, al preu de 10€.\nPodeu sol·licitar-lo al nostre telèfon 934 514 488, i recollir-lo a la nostra seu, c/Viladomat 291, 6è pis, 08029 Barcelona, els dimarts i dijous de 19:00 a 21:00 hores.\nAprofitem l'ocasió per desitjar-vos felicitat en les properes festes tradicionals.\nSalutacions i cels clars.",
-				"widthPhoto": 60
 			},
 			{
 				"order": 4,
